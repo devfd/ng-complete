@@ -1,21 +1,21 @@
 {
-  "name": "ng-complete",
+  "name": "ng-introspect",
   "version": "0.0.1",
-  "description": "ng-complete ===========",
+  "description": "ng-introspect ===========",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devfd/ng-complete.git"
+    "url": "https://github.com/devfd/ng-introspect.git"
   },
   "author": "devfd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devfd/ng-complete/issues"
+    "url": "https://github.com/devfd/ng-introspect/issues"
   },
-  "homepage": "https://github.com/devfd/ng-complete",
+  "homepage": "https://github.com/devfd/ng-introspect",
   "dependencies": {
     "esprima": "^1.2.2"
   }
